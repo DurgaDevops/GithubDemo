@@ -1,6 +1,6 @@
 test.txt
 Hi test file
 i am practcing git concepts
-files nned to upload from local repositry to remote repositary
+files need to upload from local repository to remote repository
 this test file
 this sample file
